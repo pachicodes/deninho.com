@@ -1,0 +1,15 @@
+body {
+  text-align: center;
+  font-family: "Roboto", sans-serif;
+}
+
+h1 {
+  font-family: "Luckiest Guy", cursive;
+}
+
+.maedena {
+  width: 70%;
+  margin: 0 auto;
+  padding: 15px;
+  background-color: #905494;
+}
